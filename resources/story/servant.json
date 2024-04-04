@@ -1,0 +1,3699 @@
+[
+    {
+        "id": 100100,
+        "collectionNo": 2,
+        "name": "Altria Pendragon",
+        "originalName": "Altria Pendragon",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "earth",
+        "rarity": 5,
+        "atkMax": 11221,
+        "hpMax": 15150,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1001000.png",
+        "costume": {
+            "100130": {
+                "id": 11,
+                "costumeCollectionNo": 41,
+                "battleCharaId": 100130,
+                "shortName": "Invisible Air"
+            }
+        }
+    },
+    {
+        "id": 100200,
+        "collectionNo": 3,
+        "name": "Altria Pendragon (Alter)",
+        "originalName": "Altria Pendragon (Alter)",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 10248,
+        "hpMax": 11589,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1002000.png",
+        "costume": {
+            "100230": {
+                "id": 11,
+                "costumeCollectionNo": 33,
+                "battleCharaId": 100230,
+                "shortName": "Pitch Black King of Knights Shinjuku 1999 Ver."
+            }
+        }
+    },
+    {
+        "id": 100500,
+        "collectionNo": 5,
+        "name": "Nero Claudius",
+        "originalName": "Nero Claudius",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 9449,
+        "hpMax": 11753,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1005000.png",
+        "costume": {
+            "100530": {
+                "id": 11,
+                "costumeCollectionNo": 3,
+                "battleCharaId": 100530,
+                "shortName": "Olympian Gym Uniform"
+            },
+            "100540": {
+                "id": 12,
+                "costumeCollectionNo": 38,
+                "battleCharaId": 100540,
+                "shortName": "Venus's Silk"
+            },
+            "100550": {
+                "id": 13,
+                "costumeCollectionNo": 54,
+                "battleCharaId": 100550,
+                "shortName": "Tumultuous Rapsodia"
+            }
+        }
+    },
+    {
+        "id": 100800,
+        "collectionNo": 6,
+        "name": "Siegfried",
+        "originalName": "Siegfried",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 8181,
+        "hpMax": 14165,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1008000.png",
+        "costume": {
+            "100830": {
+                "id": 11,
+                "costumeCollectionNo": 22,
+                "battleCharaId": 100830,
+                "shortName": "Super Cool Biz"
+            }
+        }
+    },
+    {
+        "id": 101300,
+        "collectionNo": 7,
+        "name": "Gaius Julius Caesar",
+        "originalName": "Gaius Julius Caesar",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 7497,
+        "hpMax": 9595,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1013000.png",
+        "costume": {
+            "101300": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 101300,
+                "shortName": ""
+            },
+            "101310": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 101310,
+                "shortName": ""
+            },
+            "101320": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 101320,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 101800,
+        "collectionNo": 8,
+        "name": "Altera",
+        "originalName": "Altera",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "human",
+        "rarity": 5,
+        "atkMax": 12343,
+        "hpMax": 13907,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1018000.png",
+        "costume": {
+            "101830": {
+                "id": 11,
+                "costumeCollectionNo": 53,
+                "battleCharaId": 101830,
+                "shortName": "Stardust in the Palm"
+            }
+        }
+    },
+    {
+        "id": 102200,
+        "collectionNo": 9,
+        "name": "Gilles de Rais",
+        "originalName": "Gilles de Rais",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 6615,
+        "hpMax": 10498,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1022000.png",
+        "costume": {}
+    },
+    {
+        "id": 102600,
+        "collectionNo": 10,
+        "name": "Chevalier d'Eon",
+        "originalName": "Chevalier d'Eon",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 8765,
+        "hpMax": 13256,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1026000.png",
+        "costume": {}
+    },
+    {
+        "id": 200100,
+        "collectionNo": 11,
+        "name": "Emiya",
+        "originalName": "Emiya",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 9398,
+        "hpMax": 11521,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2001000.png",
+        "costume": {
+            "200130": {
+                "id": 11,
+                "costumeCollectionNo": 44,
+                "battleCharaId": 200130,
+                "shortName": "Summer Casual"
+            }
+        }
+    },
+    {
+        "id": 200300,
+        "collectionNo": 13,
+        "name": "Robin Hood",
+        "originalName": "Robin Hood",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 6715,
+        "hpMax": 10187,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2003000.png",
+        "costume": {
+            "200330": {
+                "id": 11,
+                "costumeCollectionNo": 11,
+                "battleCharaId": 200330,
+                "shortName": "Summer Hunter"
+            }
+        }
+    },
+    {
+        "id": 200500,
+        "collectionNo": 14,
+        "name": "Atalante",
+        "originalName": "Atalante",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 8633,
+        "hpMax": 12476,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2005000.png",
+        "costume": {}
+    },
+    {
+        "id": 201200,
+        "collectionNo": 15,
+        "name": "Euryale",
+        "originalName": "Euryale",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "sky",
+        "rarity": 3,
+        "atkMax": 7032,
+        "hpMax": 9506,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2012000.png",
+        "costume": {
+            "201200": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 201200,
+                "shortName": ""
+            },
+            "201230": {
+                "id": 11,
+                "costumeCollectionNo": 55,
+                "battleCharaId": 201230,
+                "shortName": "Mirage"
+            }
+        }
+    },
+    {
+        "id": 300100,
+        "collectionNo": 17,
+        "name": "Cú Chulainn",
+        "originalName": "Cú Chulainn",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "sky",
+        "rarity": 3,
+        "atkMax": 7239,
+        "hpMax": 9593,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3001000.png",
+        "costume": {}
+    },
+    {
+        "id": 300500,
+        "collectionNo": 18,
+        "name": "Elisabeth Báthory",
+        "originalName": "Elisabeth Báthory",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 9122,
+        "hpMax": 11870,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3005000.png",
+        "costume": {}
+    },
+    {
+        "id": 300700,
+        "collectionNo": 20,
+        "name": "Cú Chulainn (Prototype)",
+        "originalName": "Cú Chulainn (Prototype)",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "sky",
+        "rarity": 3,
+        "atkMax": 7082,
+        "hpMax": 10098,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3007000.png",
+        "costume": {}
+    },
+    {
+        "id": 301000,
+        "collectionNo": 22,
+        "name": "Romulus",
+        "originalName": "Romulus",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "star",
+        "rarity": 3,
+        "atkMax": 7239,
+        "hpMax": 9883,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3010000.png",
+        "costume": {}
+    },
+    {
+        "id": 400100,
+        "collectionNo": 23,
+        "name": "Medusa",
+        "originalName": "Medusa",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "earth",
+        "rarity": 3,
+        "atkMax": 7200,
+        "hpMax": 8937,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4001000.png",
+        "costume": {
+            "400130": {
+                "id": 11,
+                "costumeCollectionNo": 80,
+                "battleCharaId": 400130,
+                "shortName": "Reading Glasses"
+            }
+        }
+    },
+    {
+        "id": 401100,
+        "collectionNo": 26,
+        "name": "Boudica",
+        "originalName": "Boudica",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 6289,
+        "hpMax": 10130,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4011000.png",
+        "costume": {}
+    },
+    {
+        "id": 401400,
+        "collectionNo": 27,
+        "name": "Ushiwakamaru",
+        "originalName": "Ushiwakamaru",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 7076,
+        "hpMax": 9028,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4014000.png",
+        "costume": {
+            "401400": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 401400,
+                "shortName": ""
+            },
+            "401410": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 401410,
+                "shortName": ""
+            },
+            "401420": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 401420,
+                "shortName": ""
+            },
+            "401430": {
+                "id": 11,
+                "costumeCollectionNo": 56,
+                "battleCharaId": 401430,
+                "shortName": "Psychedelic Wandering Tales"
+            }
+        }
+    },
+    {
+        "id": 401500,
+        "collectionNo": 28,
+        "name": "Alexander",
+        "originalName": "Alexander",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 7356,
+        "hpMax": 8640,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4015000.png",
+        "costume": {}
+    },
+    {
+        "id": 401700,
+        "collectionNo": 29,
+        "name": "Marie Antoinette",
+        "originalName": "Marie Antoinette",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 8293,
+        "hpMax": 12348,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4017000.png",
+        "costume": {
+            "401700": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 401700,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 401900,
+        "collectionNo": 30,
+        "name": "Martha",
+        "originalName": "Martha",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 8014,
+        "hpMax": 13068,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4019000.png",
+        "costume": {}
+    },
+    {
+        "id": 500100,
+        "collectionNo": 31,
+        "name": "Medea",
+        "originalName": "Medea",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "earth",
+        "rarity": 3,
+        "atkMax": 7418,
+        "hpMax": 8643,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5001000.png",
+        "costume": {}
+    },
+    {
+        "id": 500200,
+        "collectionNo": 32,
+        "name": "Gilles de Rais",
+        "originalName": "Gilles de Rais",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 6514,
+        "hpMax": 9506,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5002000.png",
+        "costume": {}
+    },
+    {
+        "id": 501400,
+        "collectionNo": 35,
+        "name": "Mephistopheles",
+        "originalName": "Mephistopheles",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "earth",
+        "rarity": 3,
+        "atkMax": 6839,
+        "hpMax": 9216,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5014000.png",
+        "costume": {}
+    },
+    {
+        "id": 501900,
+        "collectionNo": 37,
+        "name": "Zhuge Liang (Lord El-Melloi II)",
+        "originalName": "Zhuge Liang (Lord El-Melloi II)",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 5,
+        "atkMax": 10598,
+        "hpMax": 14259,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5019000.png",
+        "costume": {
+            "501900": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 501900,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 502100,
+        "collectionNo": 38,
+        "name": "Cú Chulainn",
+        "originalName": "Cú Chulainn",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "sky",
+        "rarity": 3,
+        "atkMax": 6580,
+        "hpMax": 9604,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5021000.png",
+        "costume": {
+            "502100": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 502100,
+                "shortName": ""
+            },
+            "502110": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 502110,
+                "shortName": ""
+            },
+            "502120": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 502120,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 601000,
+        "collectionNo": 41,
+        "name": "Stheno",
+        "originalName": "Stheno",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "sky",
+        "rarity": 4,
+        "atkMax": 8985,
+        "hpMax": 11518,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6010000.png",
+        "costume": {
+            "601000": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 601000,
+                "shortName": ""
+            },
+            "601010": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 601010,
+                "shortName": ""
+            },
+            "601020": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 601020,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 601100,
+        "collectionNo": 42,
+        "name": "Jing Ke",
+        "originalName": "Jing Ke",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 7207,
+        "hpMax": 8293,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6011000.png",
+        "costume": {}
+    },
+    {
+        "id": 601700,
+        "collectionNo": 46,
+        "name": "Carmilla",
+        "originalName": "Carmilla",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 9408,
+        "hpMax": 10473,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6017000.png",
+        "costume": {}
+    },
+    {
+        "id": 700100,
+        "collectionNo": 47,
+        "name": "Heracles",
+        "originalName": "Heracles",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "sky",
+        "rarity": 4,
+        "atkMax": 10655,
+        "hpMax": 10327,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7001000.png",
+        "costume": {}
+    },
+    {
+        "id": 700200,
+        "collectionNo": 48,
+        "name": "Lancelot",
+        "originalName": "Lancelot",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 10477,
+        "hpMax": 10327,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7002000.png",
+        "costume": {
+            "700200": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 700200,
+                "shortName": ""
+            },
+            "700210": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 700210,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 700300,
+        "collectionNo": 49,
+        "name": "Lu Bu Fengxian",
+        "originalName": "Lu Bu Fengxian",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 8119,
+        "hpMax": 8302,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7003000.png",
+        "costume": {
+            "700300": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 700300,
+                "shortName": ""
+            },
+            "700310": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 700310,
+                "shortName": ""
+            },
+            "700320": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 700320,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 700700,
+        "collectionNo": 52,
+        "name": "Vlad III",
+        "originalName": "Vlad III",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "earth",
+        "rarity": 5,
+        "atkMax": 11499,
+        "hpMax": 13770,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7007000.png",
+        "costume": {}
+    },
+    {
+        "id": 701100,
+        "collectionNo": 55,
+        "name": "Darius III",
+        "originalName": "Darius III",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 7608,
+        "hpMax": 8763,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7011000.png",
+        "costume": {}
+    },
+    {
+        "id": 701300,
+        "collectionNo": 56,
+        "name": "Kiyohime",
+        "originalName": "Kiyohime",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "earth",
+        "rarity": 3,
+        "atkMax": 6644,
+        "hpMax": 9166,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7013000.png",
+        "costume": {}
+    },
+    {
+        "id": 701600,
+        "collectionNo": 58,
+        "name": "Tamamo Cat",
+        "originalName": "Tamamo Cat",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 9026,
+        "hpMax": 11458,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7016000.png",
+        "costume": {
+            "701630": {
+                "id": 11,
+                "costumeCollectionNo": 62,
+                "battleCharaId": 701630,
+                "shortName": "Smiling Glory Day"
+            }
+        }
+    },
+    {
+        "id": 900100,
+        "collectionNo": 59,
+        "name": "Jeanne d'Arc",
+        "originalName": "Jeanne d'Arc",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 9,
+        "className": "ruler",
+        "attribute": "star",
+        "rarity": 5,
+        "atkMax": 9593,
+        "hpMax": 16500,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_9001000.png",
+        "costume": {
+            "900130": {
+                "id": 11,
+                "costumeCollectionNo": 64,
+                "battleCharaId": 900130,
+                "shortName": "Prove"
+            }
+        }
+    },
+    {
+        "id": 200900,
+        "collectionNo": 60,
+        "name": "Orion",
+        "originalName": "Orion",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "sky",
+        "rarity": 5,
+        "atkMax": 11107,
+        "hpMax": 14553,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2009000.png",
+        "costume": {}
+    },
+    {
+        "id": 500300,
+        "collectionNo": 62,
+        "name": "Tamamo-no-Mae",
+        "originalName": "Tamamo-no-Mae",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "sky",
+        "rarity": 5,
+        "atkMax": 10546,
+        "hpMax": 14259,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5003000.png",
+        "costume": {
+            "500300": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 500300,
+                "shortName": ""
+            },
+            "500310": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 500310,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 200600,
+        "collectionNo": 63,
+        "name": "David",
+        "originalName": "David",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "sky",
+        "rarity": 3,
+        "atkMax": 7736,
+        "hpMax": 8643,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2006000.png",
+        "costume": {}
+    },
+    {
+        "id": 301600,
+        "collectionNo": 64,
+        "name": "Hektor",
+        "originalName": "Hektor",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 6928,
+        "hpMax": 10200,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3016000.png",
+        "costume": {
+            "301600": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 301600,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 400300,
+        "collectionNo": 65,
+        "name": "Francis Drake",
+        "originalName": "Francis Drake",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "star",
+        "rarity": 5,
+        "atkMax": 11326,
+        "hpMax": 12830,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4003000.png",
+        "costume": {}
+    },
+    {
+        "id": 400900,
+        "collectionNo": 66,
+        "name": "Anne Bonny & Mary Read",
+        "originalName": "Anne Bonny & Mary Read",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 9029,
+        "hpMax": 11286,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4009000.png",
+        "costume": {}
+    },
+    {
+        "id": 501700,
+        "collectionNo": 67,
+        "name": "Medea (Lily)",
+        "originalName": "Medea (Lily)",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 7766,
+        "hpMax": 13070,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5017000.png",
+        "costume": {}
+    },
+    {
+        "id": 300200,
+        "collectionNo": 71,
+        "name": "Diarmuid Ua Duibhne",
+        "originalName": "Diarmuid Ua Duibhne",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "earth",
+        "rarity": 3,
+        "atkMax": 6877,
+        "hpMax": 10098,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3002000.png",
+        "costume": {}
+    },
+    {
+        "id": 101400,
+        "collectionNo": 72,
+        "name": "Fergus mac Róich",
+        "originalName": "Fergus mac Róich",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "earth",
+        "rarity": 3,
+        "atkMax": 7460,
+        "hpMax": 9786,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1014000.png",
+        "costume": {}
+    },
+    {
+        "id": 500400,
+        "collectionNo": 74,
+        "name": "Nursery Rhyme",
+        "originalName": "Nursery Rhyme",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 8629,
+        "hpMax": 11882,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5004000.png",
+        "costume": {
+            "500400": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 500400,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 600500,
+        "collectionNo": 75,
+        "name": "Jack the Ripper",
+        "originalName": "Jack the Ripper",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "earth",
+        "rarity": 5,
+        "atkMax": 11557,
+        "hpMax": 12696,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6005000.png",
+        "costume": {
+            "600500": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 600500,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 100900,
+        "collectionNo": 76,
+        "name": "Mordred",
+        "originalName": "Mordred",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "earth",
+        "rarity": 5,
+        "atkMax": 11723,
+        "hpMax": 14680,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1009000.png",
+        "costume": {
+            "100930": {
+                "id": 11,
+                "costumeCollectionNo": 34,
+                "battleCharaId": 100930,
+                "shortName": "Memories of Trifas"
+            },
+            "100940": {
+                "id": 12,
+                "costumeCollectionNo": 75,
+                "battleCharaId": 100940,
+                "shortName": "Red Saber"
+            }
+        }
+    },
+    {
+        "id": 201100,
+        "collectionNo": 77,
+        "name": "Nikola Tesla",
+        "originalName": "Nikola Tesla",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "star",
+        "rarity": 5,
+        "atkMax": 11781,
+        "hpMax": 13825,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2011000.png",
+        "costume": {
+            "201100": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 201100,
+                "shortName": ""
+            },
+            "201110": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 201110,
+                "shortName": ""
+            },
+            "201120": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 201120,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 301900,
+        "collectionNo": 78,
+        "name": "Altria Pendragon (Alter)",
+        "originalName": "Altria Pendragon (Alter)",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "sky",
+        "rarity": 4,
+        "atkMax": 9968,
+        "hpMax": 11761,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3019000.png",
+        "costume": {
+            "301900": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 301900,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 501000,
+        "collectionNo": 79,
+        "name": "Paracelsus von Hohenheim",
+        "originalName": "Paracelsus von Hohenheim",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 6711,
+        "hpMax": 9506,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5010000.png",
+        "costume": {
+            "501030": {
+                "id": 11,
+                "costumeCollectionNo": 81,
+                "battleCharaId": 501030,
+                "shortName": "Magnifiers"
+            }
+        }
+    },
+    {
+        "id": 501100,
+        "collectionNo": 80,
+        "name": "Charles Babbage",
+        "originalName": "Charles Babbage",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 5996,
+        "hpMax": 10887,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5011000.png",
+        "costume": {}
+    },
+    {
+        "id": 600700,
+        "collectionNo": 81,
+        "name": "Henry Jekyll & Hyde",
+        "originalName": "Henry Jekyll & Hyde",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "earth",
+        "rarity": 3,
+        "atkMax": 6320,
+        "hpMax": 9675,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6007000.png",
+        "costume": {}
+    },
+    {
+        "id": 700400,
+        "collectionNo": 82,
+        "name": "Frankenstein",
+        "originalName": "Frankenstein",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 9441,
+        "hpMax": 10687,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7004000.png",
+        "costume": {}
+    },
+    {
+        "id": 201500,
+        "collectionNo": 84,
+        "name": "Arjuna",
+        "originalName": "Arjuna",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "sky",
+        "rarity": 5,
+        "atkMax": 12342,
+        "hpMax": 13230,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2015000.png",
+        "costume": {
+            "201500": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 201500,
+                "shortName": ""
+            },
+            "201510": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 201510,
+                "shortName": ""
+            },
+            "201520": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 201520,
+                "shortName": ""
+            },
+            "201530": {
+                "id": 11,
+                "costumeCollectionNo": 36,
+                "battleCharaId": 201530,
+                "shortName": "Bequeathed Traveling Clothes"
+            }
+        }
+    },
+    {
+        "id": 300400,
+        "collectionNo": 85,
+        "name": "Karna",
+        "originalName": "Karna",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "sky",
+        "rarity": 5,
+        "atkMax": 11976,
+        "hpMax": 13632,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3004000.png",
+        "costume": {
+            "300400": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 300400,
+                "shortName": ""
+            },
+            "300410": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 300410,
+                "shortName": ""
+            },
+            "300420": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 300420,
+                "shortName": ""
+            },
+            "300430": {
+                "id": 11,
+                "costumeCollectionNo": 20,
+                "battleCharaId": 300430,
+                "shortName": "Robe of the Fiery Three Gods"
+            },
+            "300440": {
+                "id": 12,
+                "costumeCollectionNo": 78,
+                "battleCharaId": 300440,
+                "shortName": "Rainbow Shining at the End of Time "
+            }
+        }
+    },
+    {
+        "id": 301100,
+        "collectionNo": 87,
+        "name": "Fionn mac Cumhaill",
+        "originalName": "Fionn mac Cumhaill",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "sky",
+        "rarity": 4,
+        "atkMax": 8930,
+        "hpMax": 12750,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3011000.png",
+        "costume": {
+            "301100": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 301100,
+                "shortName": ""
+            },
+            "301110": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 301110,
+                "shortName": ""
+            },
+            "301120": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 301120,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 700800,
+        "collectionNo": 89,
+        "name": "Beowulf",
+        "originalName": "Beowulf",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 10247,
+        "hpMax": 10327,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7008000.png",
+        "costume": {}
+    },
+    {
+        "id": 400400,
+        "collectionNo": 94,
+        "name": "Astolfo",
+        "originalName": "Astolfo",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 8937,
+        "hpMax": 11172,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4004000.png",
+        "costume": {
+            "400430": {
+                "id": 11,
+                "costumeCollectionNo": 5,
+                "battleCharaId": 400430,
+                "shortName": "Memories at Trifas"
+            }
+        }
+    },
+    {
+        "id": 201800,
+        "collectionNo": 95,
+        "name": "Gilgamesh (Child)",
+        "originalName": "Gilgamesh (Child)",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "sky",
+        "rarity": 3,
+        "atkMax": 7696,
+        "hpMax": 8731,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2018000.png",
+        "costume": {}
+    },
+    {
+        "id": 701400,
+        "collectionNo": 97,
+        "name": "Florence Nightingale",
+        "originalName": "Florence Nightingale",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "human",
+        "rarity": 5,
+        "atkMax": 10184,
+        "hpMax": 15221,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7014000.png",
+        "costume": {}
+    },
+    {
+        "id": 702000,
+        "collectionNo": 98,
+        "name": "Cú Chulainn (Alter)",
+        "originalName": "Cú Chulainn (Alter)",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "earth",
+        "rarity": 5,
+        "atkMax": 12805,
+        "hpMax": 12210,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7020000.png",
+        "costume": {
+            "702030": {
+                "id": 11,
+                "costumeCollectionNo": 86,
+                "battleCharaId": 702030,
+                "shortName": "Oval Glasses"
+            }
+        }
+    },
+    {
+        "id": 401300,
+        "collectionNo": 99,
+        "name": "Queen Medb",
+        "originalName": "Queen Medb",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "earth",
+        "rarity": 5,
+        "atkMax": 10296,
+        "hpMax": 13968,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4013000.png",
+        "costume": {
+            "401330": {
+                "id": 11,
+                "costumeCollectionNo": 2,
+                "battleCharaId": 401330,
+                "shortName": "Bewitching Prison Warden Look"
+            },
+            "401340": {
+                "id": 12,
+                "costumeCollectionNo": 57,
+                "battleCharaId": 401340,
+                "shortName": "Hero, My Love"
+            }
+        }
+    },
+    {
+        "id": 502300,
+        "collectionNo": 100,
+        "name": "Helena Blavatsky",
+        "originalName": "Helena Blavatsky",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 8629,
+        "hpMax": 11882,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5023000.png",
+        "costume": {
+            "502330": {
+                "id": 11,
+                "costumeCollectionNo": 58,
+                "battleCharaId": 502330,
+                "shortName": "That's So Mahatma☆"
+            }
+        }
+    },
+    {
+        "id": 101900,
+        "collectionNo": 101,
+        "name": "Rama",
+        "originalName": "Rama",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "sky",
+        "rarity": 4,
+        "atkMax": 9854,
+        "hpMax": 11993,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1019000.png",
+        "costume": {}
+    },
+    {
+        "id": 301700,
+        "collectionNo": 102,
+        "name": "Li Shuwen",
+        "originalName": "Li Shuwen",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 9653,
+        "hpMax": 11360,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3017000.png",
+        "costume": {}
+    },
+    {
+        "id": 502500,
+        "collectionNo": 103,
+        "name": "Thomas Edison",
+        "originalName": "Thomas Edison",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 7952,
+        "hpMax": 11882,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5025000.png",
+        "costume": {}
+    },
+    {
+        "id": 501600,
+        "collectionNo": 104,
+        "name": "Geronimo",
+        "originalName": "Geronimo",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 6857,
+        "hpMax": 9123,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5016000.png",
+        "costume": {}
+    },
+    {
+        "id": 201000,
+        "collectionNo": 105,
+        "name": "Billy the Kid",
+        "originalName": "Billy the Kid",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 6890,
+        "hpMax": 9506,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2010000.png",
+        "costume": {}
+    },
+    {
+        "id": 601500,
+        "collectionNo": 109,
+        "name": "Emiya (Assassin)",
+        "originalName": "Emiya (Assassin)",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 8958,
+        "hpMax": 11168,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6015000.png",
+        "costume": {}
+    },
+    {
+        "id": 600300,
+        "collectionNo": 110,
+        "name": "Hassan of the Hundred Personas",
+        "originalName": "Hassan of the Hundred Personas",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 6686,
+        "hpMax": 9310,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6003000.png",
+        "costume": {}
+    },
+    {
+        "id": 502200,
+        "collectionNo": 113,
+        "name": "Xuanzang Sanzang",
+        "originalName": "Xuanzang Sanzang",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 5,
+        "atkMax": 11658,
+        "hpMax": 12965,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5022000.png",
+        "costume": {}
+    },
+    {
+        "id": 702200,
+        "collectionNo": 116,
+        "name": "Ibaraki-Douji",
+        "originalName": "Ibaraki-Douji",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 9636,
+        "hpMax": 10954,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7022000.png",
+        "costume": {}
+    },
+    {
+        "id": 601900,
+        "collectionNo": 117,
+        "name": "Fuuma \"Evil-wind\" Kotarou",
+        "originalName": "Fuuma \"Evil-wind\" Kotarou",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 7091,
+        "hpMax": 8844,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6019000.png",
+        "costume": {
+            "601900": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 601900,
+                "shortName": ""
+            },
+            "601910": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 601910,
+                "shortName": ""
+            },
+            "601920": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 601920,
+                "shortName": ""
+            },
+            "601930": {
+                "id": 11,
+                "costumeCollectionNo": 23,
+                "battleCharaId": 601930,
+                "shortName": "Shinobi Summer Attire"
+            }
+        }
+    },
+    {
+        "id": 401200,
+        "collectionNo": 118,
+        "name": "Ozymandias",
+        "originalName": "Ozymandias",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "sky",
+        "rarity": 5,
+        "atkMax": 11971,
+        "hpMax": 12830,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4012000.png",
+        "costume": {}
+    },
+    {
+        "id": 302000,
+        "collectionNo": 119,
+        "name": "Altria Pendragon (Lancer)",
+        "originalName": "Altria Pendragon (Lancer)",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "sky",
+        "rarity": 5,
+        "atkMax": 10995,
+        "hpMax": 15606,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3020000.png",
+        "costume": {
+            "302000": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 302000,
+                "shortName": ""
+            },
+            "302010": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 302010,
+                "shortName": ""
+            },
+            "302020": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 302020,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 501200,
+        "collectionNo": 120,
+        "name": "Nitocris",
+        "originalName": "Nitocris",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 9060,
+        "hpMax": 11288,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5012000.png",
+        "costume": {
+            "501230": {
+                "id": 11,
+                "costumeCollectionNo": 59,
+                "battleCharaId": 501230,
+                "shortName": "Beyond the Mirror"
+            }
+        }
+    },
+    {
+        "id": 102000,
+        "collectionNo": 121,
+        "name": "Lancelot",
+        "originalName": "Lancelot",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 9949,
+        "hpMax": 11589,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1020000.png",
+        "costume": {
+            "102000": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 102000,
+                "shortName": ""
+            },
+            "102010": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 102010,
+                "shortName": ""
+            },
+            "102020": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 102020,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 200800,
+        "collectionNo": 122,
+        "name": "Tristan",
+        "originalName": "Tristan",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 9735,
+        "hpMax": 11637,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2008000.png",
+        "costume": {
+            "200800": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 200800,
+                "shortName": ""
+            },
+            "200810": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 200810,
+                "shortName": ""
+            },
+            "200820": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 200820,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 100700,
+        "collectionNo": 123,
+        "name": "Gawain",
+        "originalName": "Gawain",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 10173,
+        "hpMax": 11419,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1007000.png",
+        "costume": {
+            "100700": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 100700,
+                "shortName": ""
+            },
+            "100710": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 100710,
+                "shortName": ""
+            },
+            "100720": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 100720,
+                "shortName": ""
+            },
+            "100730": {
+                "id": 11,
+                "costumeCollectionNo": 73,
+                "battleCharaId": 100730,
+                "shortName": "Elegant Square"
+            }
+        }
+    },
+    {
+        "id": 600900,
+        "collectionNo": 124,
+        "name": "Hassan of the Serenity",
+        "originalName": "Hassan of the Serenity",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 6636,
+        "hpMax": 9310,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6009000.png",
+        "costume": {
+            "600930": {
+                "id": 11,
+                "costumeCollectionNo": 61,
+                "battleCharaId": 600930,
+                "shortName": "Poisonous Flower Blooming at Night"
+            }
+        }
+    },
+    {
+        "id": 201400,
+        "collectionNo": 125,
+        "name": "Tawara Touta",
+        "originalName": "Tawara Touta",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 7032,
+        "hpMax": 9800,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2014000.png",
+        "costume": {}
+    },
+    {
+        "id": 101200,
+        "collectionNo": 126,
+        "name": "Bedivere",
+        "originalName": "Bedivere",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "star",
+        "rarity": 3,
+        "atkMax": 7627,
+        "hpMax": 9595,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1012000.png",
+        "costume": {
+            "101230": {
+                "id": 11,
+                "costumeCollectionNo": 48,
+                "battleCharaId": 101230,
+                "shortName": "Silver Butler"
+            }
+        }
+    },
+    {
+        "id": 300800,
+        "collectionNo": 143,
+        "name": "Enkidu",
+        "originalName": "Enkidu",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "sky",
+        "rarity": 5,
+        "atkMax": 10780,
+        "hpMax": 15300,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3008000.png",
+        "costume": {
+            "300830": {
+                "id": 11,
+                "costumeCollectionNo": 77,
+                "battleCharaId": 300830,
+                "shortName": "Stylish Top Rim"
+            }
+        }
+    },
+    {
+        "id": 401800,
+        "collectionNo": 144,
+        "name": "Quetzalcoatl",
+        "originalName": "Quetzalcoatl",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "sky",
+        "rarity": 5,
+        "atkMax": 12001,
+        "hpMax": 12960,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4018000.png",
+        "costume": {}
+    },
+    {
+        "id": 501800,
+        "collectionNo": 145,
+        "name": "Gilgamesh",
+        "originalName": "Gilgamesh",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 8460,
+        "hpMax": 12005,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5018000.png",
+        "costume": {
+            "501830": {
+                "id": 11,
+                "costumeCollectionNo": 10,
+                "battleCharaId": 501830,
+                "shortName": "Establishment"
+            }
+        }
+    },
+    {
+        "id": 302700,
+        "collectionNo": 146,
+        "name": "Medusa",
+        "originalName": "Medusa",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 8253,
+        "hpMax": 13119,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3027000.png",
+        "costume": {}
+    },
+    {
+        "id": 1100400,
+        "collectionNo": 147,
+        "name": "Gorgon",
+        "originalName": "Gorgon",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 11,
+        "className": "avenger",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 10706,
+        "hpMax": 10197,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_11004000.png",
+        "costume": {
+            "1100400": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 1100400,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 302800,
+        "collectionNo": 148,
+        "name": "Jaguar Warrior",
+        "originalName": "Jaguar Warrior",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "earth",
+        "rarity": 3,
+        "atkMax": 7022,
+        "hpMax": 9593,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3028000.png",
+        "costume": {}
+    },
+    {
+        "id": 201600,
+        "collectionNo": 157,
+        "name": "Emiya (Alter)",
+        "originalName": "Emiya (Alter)",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 8996,
+        "hpMax": 12250,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2016000.png",
+        "costume": {}
+    },
+    {
+        "id": 1100500,
+        "collectionNo": 158,
+        "name": "Hessian Lobo",
+        "originalName": "Hessian Lobo",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 11,
+        "className": "avenger",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 10628,
+        "hpMax": 9949,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_11005000.png",
+        "costume": {
+            "1100500": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 1100500,
+                "shortName": ""
+            },
+            "1100510": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 1100510,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 602600,
+        "collectionNo": 159,
+        "name": "Yan Qing",
+        "originalName": "Yan Qing",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 8661,
+        "hpMax": 11637,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6026000.png",
+        "costume": {}
+    },
+    {
+        "id": 103000,
+        "collectionNo": 165,
+        "name": "Suzuka Gozen",
+        "originalName": "Suzuka Gozen",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "sky",
+        "rarity": 4,
+        "atkMax": 9544,
+        "hpMax": 11753,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1030000.png",
+        "costume": {}
+    },
+    {
+        "id": 503000,
+        "collectionNo": 169,
+        "name": "Scheherazade",
+        "originalName": "Scheherazade",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 5,
+        "atkMax": 9212,
+        "hpMax": 15846,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5030000.png",
+        "costume": {}
+    },
+    {
+        "id": 602700,
+        "collectionNo": 170,
+        "name": "Wu Zetian",
+        "originalName": "Wu Zetian",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 8981,
+        "hpMax": 10942,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6027000.png",
+        "costume": {}
+    },
+    {
+        "id": 702700,
+        "collectionNo": 171,
+        "name": "Penthesilea",
+        "originalName": "Penthesilea",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 10502,
+        "hpMax": 10175,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7027000.png",
+        "costume": {
+            "702730": {
+                "id": 11,
+                "costumeCollectionNo": 32,
+                "battleCharaId": 702730,
+                "shortName": "Amazones CEO Set"
+            }
+        }
+    },
+    {
+        "id": 402500,
+        "collectionNo": 172,
+        "name": "Christopher Columbus",
+        "originalName": "Christopher Columbus",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 6552,
+        "hpMax": 9600,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4025000.png",
+        "costume": {}
+    },
+    {
+        "id": 303000,
+        "collectionNo": 183,
+        "name": "Pārvatī",
+        "originalName": "Pārvatī",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "sky",
+        "rarity": 4,
+        "atkMax": 8127,
+        "hpMax": 13253,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3030000.png",
+        "costume": {
+            "303030": {
+                "id": 11,
+                "costumeCollectionNo": 4,
+                "battleCharaId": 303030,
+                "shortName": "What the Girl Seeks"
+            }
+        }
+    },
+    {
+        "id": 202100,
+        "collectionNo": 184,
+        "name": "Tomoe Gozen",
+        "originalName": "Tomoe Gozen",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 9946,
+        "hpMax": 10804,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2021000.png",
+        "costume": {}
+    },
+    {
+        "id": 602900,
+        "collectionNo": 185,
+        "name": "Mochizuki Chiyome",
+        "originalName": "Mochizuki Chiyome",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 8510,
+        "hpMax": 11637,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6029000.png",
+        "costume": {}
+    },
+    {
+        "id": 301400,
+        "collectionNo": 186,
+        "name": "Houzouin Inshun",
+        "originalName": "Houzouin Inshun",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 6791,
+        "hpMax": 9996,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3014000.png",
+        "costume": {}
+    },
+    {
+        "id": 103200,
+        "collectionNo": 187,
+        "name": "Yagyu Tajima-no-kami Munenori",
+        "originalName": "Yagyu Tajima-no-kami Munenori",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 9999,
+        "hpMax": 11135,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1032000.png",
+        "costume": {}
+    },
+    {
+        "id": 603000,
+        "collectionNo": 188,
+        "name": "Katou \"Black Kite\" Danzo",
+        "originalName": "Katou \"Black Kite\" Danzo",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 8935,
+        "hpMax": 11055,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6030000.png",
+        "costume": {}
+    },
+    {
+        "id": 603100,
+        "collectionNo": 189,
+        "name": "Osakabehime",
+        "originalName": "Osakabehime",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "earth",
+        "rarity": 5,
+        "atkMax": 10824,
+        "hpMax": 13822,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6031000.png",
+        "costume": {}
+    },
+    {
+        "id": 503300,
+        "collectionNo": 192,
+        "name": "Circe",
+        "originalName": "Circe",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "sky",
+        "rarity": 4,
+        "atkMax": 8671,
+        "hpMax": 12250,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5033000.png",
+        "costume": {}
+    },
+    {
+        "id": 303100,
+        "collectionNo": 193,
+        "name": "Nezha",
+        "originalName": "Nezha",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "sky",
+        "rarity": 4,
+        "atkMax": 9284,
+        "hpMax": 12112,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3031000.png",
+        "costume": {}
+    },
+    {
+        "id": 503400,
+        "collectionNo": 194,
+        "name": "Queen of Sheba",
+        "originalName": "Queen of Sheba",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 8629,
+        "hpMax": 12127,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5034000.png",
+        "costume": {}
+    },
+    {
+        "id": 503500,
+        "collectionNo": 201,
+        "name": "Anastasia",
+        "originalName": "Anastasia",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 5,
+        "atkMax": 10546,
+        "hpMax": 14259,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5035000.png",
+        "costume": {}
+    },
+    {
+        "id": 703000,
+        "collectionNo": 202,
+        "name": "Atalante (Alter)",
+        "originalName": "Atalante (Alter)",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 9806,
+        "hpMax": 10634,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7030000.png",
+        "costume": {}
+    },
+    {
+        "id": 503600,
+        "collectionNo": 203,
+        "name": "Avicebron",
+        "originalName": "Avicebron",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 6376,
+        "hpMax": 9981,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5036000.png",
+        "costume": {}
+    },
+    {
+        "id": 1100600,
+        "collectionNo": 204,
+        "name": "Antonio Salieri",
+        "originalName": "Antonio Salieri",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 11,
+        "className": "avenger",
+        "attribute": "earth",
+        "rarity": 3,
+        "atkMax": 8125,
+        "hpMax": 7840,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_11006000.png",
+        "costume": {
+            "1100600": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 1100600,
+                "shortName": ""
+            },
+            "1100610": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 1100610,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 402900,
+        "collectionNo": 206,
+        "name": "Achilles",
+        "originalName": "Achilles",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "earth",
+        "rarity": 5,
+        "atkMax": 11883,
+        "hpMax": 13219,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4029000.png",
+        "costume": {
+            "402900": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 402900,
+                "shortName": ""
+            },
+            "402910": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 402910,
+                "shortName": ""
+            },
+            "402920": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 402920,
+                "shortName": ""
+            },
+            "402930": {
+                "id": 11,
+                "costumeCollectionNo": 70,
+                "battleCharaId": 402930,
+                "shortName": "Fearless Diver"
+            }
+        }
+    },
+    {
+        "id": 203000,
+        "collectionNo": 207,
+        "name": "Chiron",
+        "originalName": "Chiron",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "sky",
+        "rarity": 4,
+        "atkMax": 9294,
+        "hpMax": 12250,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2030000.png",
+        "costume": {
+            "203000": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 203000,
+                "shortName": ""
+            },
+            "203010": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 203010,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 503800,
+        "collectionNo": 208,
+        "name": "Sieg",
+        "originalName": "Sieg",
+        "type": "normal",
+        "flag": "ignoreCombineLimitSpecial",
+        "flags": [
+            "ignoreCombineLimitSpecial"
+        ],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 8394,
+        "hpMax": 11288,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5038000.png",
+        "costume": {}
+    },
+    {
+        "id": 203100,
+        "collectionNo": 212,
+        "name": "Napoleon",
+        "originalName": "Napoleon",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "star",
+        "rarity": 5,
+        "atkMax": 12033,
+        "hpMax": 13097,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2031000.png",
+        "costume": {
+            "203100": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 203100,
+                "shortName": ""
+            },
+            "203110": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 203110,
+                "shortName": ""
+            },
+            "203120": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 203120,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 303300,
+        "collectionNo": 214,
+        "name": "Valkyrie",
+        "originalName": "Valkyrie",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "sky",
+        "rarity": 4,
+        "atkMax": 8037,
+        "hpMax": 14025,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3033000.png",
+        "costume": {
+            "303300": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 303300,
+                "shortName": ""
+            },
+            "303310": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 303310,
+                "shortName": ""
+            },
+            "303320": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 303320,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 103500,
+        "collectionNo": 223,
+        "name": "Diarmuid Ua Duibhne",
+        "originalName": "Diarmuid Ua Duibhne",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 10048,
+        "hpMax": 11362,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1035000.png",
+        "costume": {
+            "103500": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 103500,
+                "shortName": ""
+            },
+            "103510": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 103510,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 1000800,
+        "collectionNo": 224,
+        "name": "Sitonai",
+        "originalName": "Sitonai",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 10,
+        "className": "alterEgo",
+        "attribute": "sky",
+        "rarity": 5,
+        "atkMax": 11668,
+        "hpMax": 13965,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_10008000.png",
+        "costume": {
+            "1000800": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 1000800,
+                "shortName": ""
+            },
+            "1000810": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 1000810,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 703200,
+        "collectionNo": 226,
+        "name": "Xiang Yu",
+        "originalName": "Xiang Yu",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "human",
+        "rarity": 5,
+        "atkMax": 11613,
+        "hpMax": 13770,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7032000.png",
+        "costume": {
+            "703200": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 703200,
+                "shortName": ""
+            },
+            "703210": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 703210,
+                "shortName": ""
+            },
+            "703220": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 703220,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 103600,
+        "collectionNo": 227,
+        "name": "Prince of Lan Ling",
+        "originalName": "Prince of Lan Ling",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 9112,
+        "hpMax": 12625,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1036000.png",
+        "costume": {
+            "103630": {
+                "id": 11,
+                "costumeCollectionNo": 43,
+                "battleCharaId": 103630,
+                "shortName": "Robe of Sarasvati"
+            }
+        }
+    },
+    {
+        "id": 303500,
+        "collectionNo": 228,
+        "name": "Qin Liangyu",
+        "originalName": "Qin Liangyu",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 8295,
+        "hpMax": 13387,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3035000.png",
+        "costume": {}
+    },
+    {
+        "id": 603500,
+        "collectionNo": 230,
+        "name": "Yu Mei-ren",
+        "originalName": "Yu Mei-ren",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 7970,
+        "hpMax": 13389,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6035000.png",
+        "costume": {
+            "603500": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 603500,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 403100,
+        "collectionNo": 231,
+        "name": "Red Hare",
+        "originalName": "Red Hare",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "earth",
+        "rarity": 3,
+        "atkMax": 6434,
+        "hpMax": 10483,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4031000.png",
+        "costume": {
+            "403100": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 403100,
+                "shortName": ""
+            },
+            "403110": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 403110,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 303600,
+        "collectionNo": 232,
+        "name": "Bradamante",
+        "originalName": "Bradamante",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "earth",
+        "rarity": 5,
+        "atkMax": 10833,
+        "hpMax": 15682,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3036000.png",
+        "costume": {
+            "303600": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 303600,
+                "shortName": ""
+            },
+            "303610": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 303610,
+                "shortName": ""
+            },
+            "303620": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 303620,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 603600,
+        "collectionNo": 235,
+        "name": "Li Shuwen",
+        "originalName": "Li Shuwen",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 6,
+        "className": "assassin",
+        "attribute": "human",
+        "rarity": 5,
+        "atkMax": 11470,
+        "hpMax": 12568,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_6036000.png",
+        "costume": {
+            "603600": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 603600,
+                "shortName": ""
+            },
+            "603630": {
+                "id": 11,
+                "costumeCollectionNo": 18,
+                "battleCharaId": 603630,
+                "shortName": "Without Glasses (1st Ascension)"
+            },
+            "603640": {
+                "id": 12,
+                "costumeCollectionNo": 19,
+                "battleCharaId": 603640,
+                "shortName": "Without Glasses (2nd Ascension)"
+            }
+        }
+    },
+    {
+        "id": 900800,
+        "collectionNo": 242,
+        "name": "Astraea",
+        "originalName": "Astraea",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 9,
+        "className": "ruler",
+        "attribute": "sky",
+        "rarity": 4,
+        "atkMax": 9734,
+        "hpMax": 11531,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_9008000.png",
+        "costume": {
+            "900800": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 900800,
+                "shortName": ""
+            },
+            "900810": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 900810,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 2300300,
+        "collectionNo": 244,
+        "name": "Great Stone Statue God",
+        "originalName": "Great Stone Statue God",
+        "overwriteName": "Jinako Carigiri",
+        "originalOverwriteName": "Jinako Carigiri",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 23,
+        "className": "moonCancer",
+        "attribute": "sky",
+        "rarity": 5,
+        "atkMax": 9166,
+        "hpMax": 17844,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_23003000.png",
+        "costume": {
+            "2300300": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 2300300,
+                "shortName": ""
+            },
+            "2300310": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 2300310,
+                "shortName": ""
+            },
+            "2300320": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 2300320,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 103900,
+        "collectionNo": 245,
+        "name": "Lakshmi Bai",
+        "originalName": "Lakshmi Bai",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 9949,
+        "hpMax": 11362,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1039000.png",
+        "costume": {
+            "103900": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 103900,
+                "shortName": ""
+            },
+            "103910": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 103910,
+                "shortName": ""
+            },
+            "103920": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 103920,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 203400,
+        "collectionNo": 246,
+        "name": "William Tell",
+        "originalName": "William Tell",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 7384,
+        "hpMax": 9310,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2034000.png",
+        "costume": {}
+    },
+    {
+        "id": 504300,
+        "collectionNo": 249,
+        "name": "Asclepius",
+        "originalName": "Asclepius",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 5,
+        "className": "caster",
+        "attribute": "earth",
+        "rarity": 3,
+        "atkMax": 6376,
+        "hpMax": 10084,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_5043000.png",
+        "costume": {
+            "504300": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 504300,
+                "shortName": ""
+            },
+            "504310": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 504310,
+                "shortName": ""
+            },
+            "504320": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 504320,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 403900,
+        "collectionNo": 273,
+        "name": "Mandricardo",
+        "originalName": "Mandricardo",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "human",
+        "rarity": 3,
+        "atkMax": 6756,
+        "hpMax": 9600,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4039000.png",
+        "costume": {
+            "403900": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 403900,
+                "shortName": ""
+            },
+            "403930": {
+                "id": 11,
+                "costumeCollectionNo": 71,
+                "battleCharaId": 403930,
+                "shortName": "Summer Sportswear"
+            }
+        }
+    },
+    {
+        "id": 404000,
+        "collectionNo": 274,
+        "name": "Europa",
+        "originalName": "Europa",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "sky",
+        "rarity": 5,
+        "atkMax": 11737,
+        "hpMax": 12571,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4040000.png",
+        "costume": {
+            "404000": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 404000,
+                "shortName": ""
+            },
+            "404010": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 404010,
+                "shortName": ""
+            },
+            "404020": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 404020,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 403800,
+        "collectionNo": 277,
+        "name": "Odysseus",
+        "originalName": "Odysseus",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "earth",
+        "rarity": 5,
+        "atkMax": 11795,
+        "hpMax": 13284,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4038000.png",
+        "costume": {
+            "403800": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 403800,
+                "shortName": ""
+            },
+            "403810": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 403810,
+                "shortName": ""
+            },
+            "403820": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 403820,
+                "shortName": ""
+            },
+            "403830": {
+                "id": 11,
+                "costumeCollectionNo": 87,
+                "battleCharaId": 403830,
+                "shortName": "Aegis (Second Ascension)"
+            },
+            "403840": {
+                "id": 12,
+                "costumeCollectionNo": 88,
+                "battleCharaId": 403840,
+                "shortName": "Aegis (Third Ascension)"
+            }
+        }
+    },
+    {
+        "id": 104200,
+        "collectionNo": 278,
+        "name": "Dioscuri",
+        "originalName": "Dioscuri",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "sky",
+        "rarity": 5,
+        "atkMax": 11840,
+        "hpMax": 14824,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1042000.png",
+        "costume": {
+            "104200": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 104200,
+                "shortName": ""
+            },
+            "104210": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 104210,
+                "shortName": ""
+            },
+            "104220": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 104220,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 304100,
+        "collectionNo": 279,
+        "name": "Caenis",
+        "originalName": "Caenis",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 9896,
+        "hpMax": 11532,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3041000.png",
+        "costume": {
+            "304100": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 304100,
+                "shortName": ""
+            },
+            "304110": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 304110,
+                "shortName": ""
+            },
+            "304120": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 304120,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 403700,
+        "collectionNo": 296,
+        "name": "Nemo",
+        "originalName": "Nemo",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "sky",
+        "rarity": 5,
+        "atkMax": 11427,
+        "hpMax": 13680,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4037000.png",
+        "costume": {
+            "403700": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 403700,
+                "shortName": ""
+            },
+            "403710": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 403710,
+                "shortName": ""
+            },
+            "403720": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 403720,
+                "shortName": ""
+            },
+            "403730": {
+                "id": 11,
+                "costumeCollectionNo": 79,
+                "battleCharaId": 403730,
+                "shortName": "Browline Frames"
+            }
+        }
+    },
+    {
+        "id": 104700,
+        "collectionNo": 298,
+        "name": "Watanabe-no-Tsuna",
+        "originalName": "Watanabe-no-Tsuna",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 10123,
+        "hpMax": 11248,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1047000.png",
+        "costume": {
+            "104700": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 104700,
+                "shortName": ""
+            },
+            "104710": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 104710,
+                "shortName": ""
+            },
+            "104720": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 104720,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 304600,
+        "collectionNo": 300,
+        "name": "Vritra",
+        "originalName": "Vritra",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "sky",
+        "rarity": 5,
+        "atkMax": 12332,
+        "hpMax": 13632,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3046000.png",
+        "costume": {
+            "304600": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 304600,
+                "shortName": ""
+            },
+            "304610": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 304610,
+                "shortName": ""
+            },
+            "304620": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 304620,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 703900,
+        "collectionNo": 306,
+        "name": "Galatea",
+        "originalName": "Galatea",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 7,
+        "className": "berserker",
+        "attribute": "earth",
+        "rarity": 5,
+        "atkMax": 11414,
+        "hpMax": 14040,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_7039000.png",
+        "costume": {
+            "703900": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 703900,
+                "shortName": ""
+            },
+            "703910": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 703910,
+                "shortName": ""
+            },
+            "703920": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 703920,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 105000,
+        "collectionNo": 310,
+        "name": "Tam Lin Gawain",
+        "originalName": "Tam Lin Gawain",
+        "overwriteName": "Barghest",
+        "originalOverwriteName": "Barghest",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 1,
+        "className": "saber",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 8721,
+        "hpMax": 13521,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_1050000.png",
+        "costume": {
+            "105000": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 105000,
+                "shortName": ""
+            },
+            "105010": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 105010,
+                "shortName": ""
+            },
+            "105020": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 105020,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 204300,
+        "collectionNo": 311,
+        "name": "Tam Lin Tristan",
+        "originalName": "Tam Lin Tristan",
+        "overwriteName": "Baobhan Sith",
+        "originalOverwriteName": "Baobhan Sith",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 9455,
+        "hpMax": 12127,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2043000.png",
+        "costume": {
+            "204300": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 204300,
+                "shortName": ""
+            },
+            "204310": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 204310,
+                "shortName": ""
+            },
+            "204320": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 204320,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 304700,
+        "collectionNo": 313,
+        "name": "Percival",
+        "originalName": "Percival",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 3,
+        "className": "lancer",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 9168,
+        "hpMax": 12112,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_3047000.png",
+        "costume": {
+            "304700": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 304700,
+                "shortName": ""
+            },
+            "304710": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 304710,
+                "shortName": ""
+            },
+            "304720": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 304720,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 204500,
+        "collectionNo": 325,
+        "name": "Zenobia",
+        "originalName": "Zenobia",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 2,
+        "className": "archer",
+        "attribute": "human",
+        "rarity": 4,
+        "atkMax": 9831,
+        "hpMax": 11695,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_2045000.png",
+        "costume": {
+            "204500": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 204500,
+                "shortName": ""
+            },
+            "204510": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 204510,
+                "shortName": ""
+            },
+            "204520": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 204520,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 404300,
+        "collectionNo": 331,
+        "name": "Taigong Wang",
+        "originalName": "Taigong Wang",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "earth",
+        "rarity": 5,
+        "atkMax": 11651,
+        "hpMax": 13543,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4043000.png",
+        "costume": {
+            "404300": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 404300,
+                "shortName": ""
+            },
+            "404310": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 404310,
+                "shortName": ""
+            },
+            "404320": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 404320,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 404400,
+        "collectionNo": 332,
+        "name": "Dobrynya Nikitich",
+        "originalName": "Dobrynya Nikitich",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 4,
+        "className": "rider",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 9795,
+        "hpMax": 10692,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_4044000.png",
+        "costume": {
+            "404400": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 404400,
+                "shortName": ""
+            },
+            "404410": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 404410,
+                "shortName": ""
+            },
+            "404420": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 404420,
+                "shortName": ""
+            }
+        }
+    },
+    {
+        "id": 2800200,
+        "collectionNo": 335,
+        "name": "Hephaistíon",
+        "originalName": "Hephaistíon",
+        "type": "normal",
+        "flag": "normal",
+        "flags": [],
+        "classId": 28,
+        "className": "pretender",
+        "attribute": "earth",
+        "rarity": 4,
+        "atkMax": 9879,
+        "hpMax": 11168,
+        "face": "https://static.atlasacademy.io/NA/Faces/f_28002000.png",
+        "costume": {
+            "2800200": {
+                "id": 0,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 2800200,
+                "shortName": ""
+            },
+            "2800210": {
+                "id": 1,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 2800210,
+                "shortName": ""
+            },
+            "2800220": {
+                "id": 3,
+                "costumeCollectionNo": 0,
+                "battleCharaId": 2800220,
+                "shortName": ""
+            }
+        }
+    }
+]
