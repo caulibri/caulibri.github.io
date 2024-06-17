@@ -1,2 +1,4 @@
 // how do i js
-alert("hello, world")
+function what() {
+    alert("hello, world")
+}
